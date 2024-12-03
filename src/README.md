@@ -1,5 +1,5 @@
-## SPF2T clon
+## Yet Another SPF2T clon
 
 ## References
 
-- https://game.capcom.com/manual/CFC/es419/ps4/page/8/1
+- https://game.capcom.com/manual/CFC/en/ps4/page/8/1
