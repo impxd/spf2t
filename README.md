@@ -16,21 +16,23 @@ lorem...
 
 ## Screenshots
 
+<img width="200" alt="Screenshot 2024-12-03 at 9 42 07 p m" src="https://github.com/user-attachments/assets/8e37d7ae-ba20-4845-8fe0-f8c281c86467">
+
 ## Gameplay
 
 put a video here....
 
 ## Controls
 
-Right - Move right
-Left - Move left
-Down - Move down
-
-S - Rotate left
-D - Rotate right
-
-R - Restart
-Esc/Q - Exit
+| Key   | Action        |
+|-------|---------------|
+| Right | Move right    |
+| Left  | Move left     |
+| Down  | Move down     |
+| S     | Rotate left   |
+| D     | Rotate right  |
+| R     | Restart       |
+| Esc/Q | Exit          |
 
 ## Requirements
 
@@ -41,8 +43,17 @@ Esc/Q - Exit
 
 ```bash
 python3.10 -m virtualenv .venv
+```
+
+```bash
 source .venv/bin/activate
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python src/main.py
 ```
 
