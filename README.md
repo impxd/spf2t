@@ -20,7 +20,10 @@ lorem...
 
 ## Gameplay
 
-put a video here....
+6-Chain Combo
+https://www.youtube.com/watch?v=vonvKEjOsME
+
+[Kapture 2024-12-04 at 11.39.19.webm](https://github.com/user-attachments/assets/8f74ee51-e69d-483c-8a8e-e253ecc5424c)
 
 ## Controls
 
