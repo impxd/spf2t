@@ -1,6 +1,6 @@
 ## Super Puzzle Fighter II Turbo clon
 
-Yet Another Super Puzzle Fighter II Turbo clon written in Python + Pygame
+Yet Another [SPF2T](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo) clon written in Python + Pygame
 
 ## Why?
 
