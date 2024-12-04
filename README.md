@@ -12,6 +12,7 @@ lorem...
 
 ### Architecture
 
+https://guide.elm-lang.org/architecture/
 lorem...
 
 ## Screenshots
