@@ -1,6 +1,6 @@
 ## Super Puzzle Fighter II Turbo clon
 
-Yet Another Super Puzzle Fighter II Turbo clon
+Yet Another Super Puzzle Fighter II Turbo clon written in Python + Pygame
 
 ## Why?
 
